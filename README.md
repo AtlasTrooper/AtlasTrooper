@@ -22,13 +22,8 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AtlasTrooper&layout=compact&theme=tokyonight&hide_border=true&v=2" width="47%" alt="Language Breakdown" />
 </p>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AtlasTrooper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" width="49%" alt="Main Diagnostics" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AtlasTrooper&layout=compact&theme=tokyonight&hide_border=true&v=2" width="47%" alt="Language Breakdown" />
-</p>
-
 ### Live Development Telemetry (Last 7 Days)
-![WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=AtlasTrooper&theme=tokyonight&layout=compact&hide_border=true&v=1)
+![WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=Tomer-Wiesel&theme=tokyonight&layout=compact&hide_border=true&v=1)
 
 ---
 
