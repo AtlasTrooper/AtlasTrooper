@@ -26,3 +26,7 @@ Running Arch Linux // Kernel Core Active
 
 git commit -m "docs: initialize system telemetry layout"
 
+---
+
+### Currently jamming out to:
+[![Spotify](https://novatross-spotify-card.vercel.app/api/spotify)](https://github.com/novatross/github-readme-spotify)
