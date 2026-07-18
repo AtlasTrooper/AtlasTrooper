@@ -15,8 +15,8 @@ Running Arch Linux // Kernel Core Active
 
 ### Diagnostics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtlasTrooper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Main Diagnostics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasTrooper&layout=compact&theme=tokyonight&hide_border=true" width="47%" alt="Language Breakdown" />
+  <img src="https://github-readme-stats.shion.dev/api?username=AtlasTrooper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" width="49%" alt="Main Diagnostics" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AtlasTrooper&layout=compact&theme=tokyonight&hide_border=true&v=2" width="47%" alt="Language Breakdown" />
 </p>
 
 ### Live Development Telemetry (Last 7 Days)
