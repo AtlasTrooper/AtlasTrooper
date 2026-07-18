@@ -25,7 +25,7 @@ Running Arch Linux // Kernel Core Active
 ---
 
 ### Activity Commit Matrix
-[![Activity Graph](https://github-readme-activity-graph.shion.dev/graph?username=AtlasTrooper&theme=tokyonight&hide_border=true&v=1)]
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtlasTrooper&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
