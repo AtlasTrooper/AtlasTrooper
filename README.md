@@ -20,7 +20,7 @@ Running Arch Linux // Kernel Core Active
 </p>
 
 ### Live Development Telemetry (Last 7 Days)
-![WakaTime Stats](https://github-readme-stats.shion.dev/api/wakatime?username=AtlasTrooper&theme=tokyonight&layout=compact&hide_border=true)
+![WakaTime Stats](https://github-readme-stats.shion.dev/api/wakatime?username=3f578f76-a626-4c98-b6cd-8a3df4023ece&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
