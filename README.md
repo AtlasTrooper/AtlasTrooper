@@ -1,11 +1,10 @@
-# TOASTOS // MEMORY MANAGEMENT & INTERRUPT ROUTINES INITIALIZED
+# AtlasTrooper
 Running Arch Linux // Kernel Core Active
 
-[Atlas@lemonTree ~]$ fastfetch --profile minimal
-.---.       OS: Arch Linux x86_64
-/     \      WM: Hyprland (Custom Splits)
-\   (  )     Shell: Bash (Stow Managed)
-`---'       Terminal: Kitty + Neovim Core
+OS: Arch Linux x86_64
+WM: Hyprland (Custom Splits)
+Shell: Bash (Stow Managed)
+Terminal: Kitty + Neovim Core
 
 ### Fields of interest
 * **Low-Level Dev:** x86_64 hobbyist kernel design, bare-metal bootloaders, and memory paging frameworks.
