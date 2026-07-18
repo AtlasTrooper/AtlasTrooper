@@ -1,9 +1,15 @@
 # AtlasTrooper
-OS: Arch Linux x86_64
-WM: Hyprland (Custom Splits)
-Shell: Bash (Stow Managed)
-Terminal: Kitty + Neovim Core
 
+```text
+[Atlas@lemonTree ~]$ fastfetch --profile minimal
+       /\       OS: Arch Linux x86_64
+      /  \      WM: Hyprland (Custom Splits)
+     /\   \     Shell: Bash (Stow Managed)
+    /      \    Terminal: Kitty + Neovim Core
+   /   ,,   \   
+  /   |  |   \  
+ /_-''    ''-_\
+```
 ### Fields of interest
 * **Low-Level Dev:** x86_64 hobbyist kernel design, bare-metal bootloaders, and memory paging frameworks.
 * **Environments:** C, Assembler (NASM), Advanced Data Structures, and System Emulation (QEMU / Bochs).
