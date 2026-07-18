@@ -10,10 +10,10 @@
   /   |  |   \  
  /_-''    ''-_\
 ```
-### Fields of interest
-* **Low-Level Dev:** x86_64 hobbyist kernel design, bare-metal bootloaders, and memory paging frameworks.
-* **Environments:** C, Assembler (NASM), Advanced Data Structures, and System Emulation (QEMU / Bochs).
-
+### Fields of interest/Experience with
+* **Low-Level Dev:** Operating systems, Retro Emulation, Embeded progamming, Linux.
+* **Networking:** Network protocols, client-server applications
+* **Game dev:** Unity, GMS2
 ---
 
 ### Diagnostics
@@ -27,7 +27,7 @@
 
 ---
 
-### Activity Commit Matrix
+### My recet endevours
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtlasTrooper&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
