@@ -1,6 +1,4 @@
 # AtlasTrooper
-Running Arch Linux // Kernel Core Active
-
 OS: Arch Linux x86_64
 WM: Hyprland (Custom Splits)
 Shell: Bash (Stow Managed)
