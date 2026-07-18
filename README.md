@@ -23,7 +23,7 @@
 </p>
 
 ### Live Development Telemetry (Last 7 Days)
-![WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=AtlasTrooper&theme=tokyonight&layout=compact&hide_border=true&v=1)
+![WakaTime Stats](https://github-stats-extended.vercel.app/api/wakatime?username=@3f578f76-a626-4c98-b6cd-8a3df4023ece&theme=tokyonight&layout=compact&hide_border=true&v=1)
 
 ---
 
